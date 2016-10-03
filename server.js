@@ -9,10 +9,9 @@ var articleOne = {
     title: 'title name',
     heading: 'heading name',
     date: 'Sep 5',
-    content: `
+    content: `'
     <p>This is the content of the my first article. This is the content of the my first article. This is the content of the my first article.</p>
-            
-            <p>Java Script Loading....</p>`
+            <p>Java Script Loading....</p>'`
 };
 
 function createTemplate (data){
