@@ -12,9 +12,7 @@ var articleOne = {
     content: `
     <p>This is the content of the my first article. This is the content of the my first article. This is the content of the my first article.</p>
             
-            <p>This is the content of the my first article. This is the content of the my first article. This is the content of the my first article.</p>
-            
-            <p>This is the content of the my first article. This is the content of the my first article. This is the content of the my first article.</p>`
+            <p>Java Script Loading....</p>`
 };
 
 function createTemplate (data){
